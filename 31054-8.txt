@@ -11,6 +11,7 @@ Title: La clique dorée
 Author: Émile Gaboriau
 
 Release Date: January 23, 2010 [EBook #31054]
+[Last updated: August 20, 2016]
 
 Language: French
 
@@ -727,7 +728,7 @@ Et voici ce qu'avait écrit Mlle Henriette:
      «Non, cependant, non!
 
      «Je puis vous pardonner, moi qui n'ai plus que quelques instants à
-     vivre, Dieu ne vous pardonnera pas. Je serai vengée, je le sens. Et
+     vivre. Dieu ne vous pardonnera pas. Je serai vengée, je le sens. Et
      s'il faut un miracle, il se fera, pour que l'honnête homme qui vous
      croyait son ami, pour que Daniel sache comment est morte et
      pourquoi la malheureuse confiée à son honneur.--H.»
@@ -956,7 +957,7 @@ l'estimable portière, et vivement:
 --Assez, mademoiselle, s'écria-t-il, assez, je vous en prie... Ce que
 vous avez enduré, ne le sais-je pas? J'ai vu la misère de près aussi,
 moi. Votre résolution désespérée de ce soir, je ne l'ai que trop
-comprise. Comment ne s'abandonner pas soi-même, quand ou est abandonné
+comprise. Comment ne s'abandonner pas soi-même, quand on est abandonné
 de tout et de tous?... Mais je ne m'explique plus votre découragement, à
 cette heure que la situation n'est plus la même...
 
@@ -2014,7 +2015,7 @@ Il lui semblait qu'elle allait sentir battre encore sous sa main ce
 noble coeur et que ces lèvres à jamais scellées du sceau de la mort
 allaient s'entr'ouvrir pour la rassurer.
 
-Ou voulait la détourner de ce déchirant spectacle, on la suppliait de se
+On voulait la détourner de ce déchirant spectacle, on la suppliait de se
 retirer dans sa chambre, elle s'obstinait à rester... On essaya de
 l'éloigner de force, elle se cramponna aux meubles, jurant qu'on lui
 arracherait les bras plutôt que de l'entraîner...
@@ -2100,7 +2101,7 @@ Mais loin de diminuer, son respect et son admiration pour son père
 augmentèrent. Elle le chérit davantage en voyant ce qu'elle prenait pour
 l'effet d'une incurable douleur.
 
-Il était fort affecté eu effet, mais uniquement de sa chute. D'où
+Il était fort affecté en effet, mais uniquement de sa chute. D'où
 venait-elle? Il avait beau se mettre l'esprit à la torture, il n'en
 apercevait aucune cause raisonnable.
 
@@ -14696,7 +14697,7 @@ Puis, domptant sa défaillance, elle se remit à lire:
      «Qui se serait attendu à une seconde édition de _Mines de Tiffila_,
      du marquis de Croisenois!...»
 
-Le journal tomba des moins de la pauvre fille... Elle était devenue plus
+Le journal tomba des mans de la pauvre fille... Elle était devenue plus
 pâle que la mort et elle chancelait à ce point que la soeur du père
 Ravinet étendit les bras pour la soutenir.
 
@@ -15331,7 +15332,7 @@ Et pour ajouter aux ennuis, _la Conquête_ était tellement encombrée de
 monde, que matelots et officiers avaient à peine la moitié de l'étroit
 espace qui leur est accordé habituellement.
 
-Il y avait a bord, outre l'équipage, un demi-bataillon d'infanterie de
+Il y avait à bord, outre l'équipage, un demi-bataillon d'infanterie de
 marine et cent soixante ouvriers de métiers divers, recrutés par le
 gouvernement pour le service de ses établissements.
 
@@ -18697,7 +18698,7 @@ feuille de papier à lettre toute crasseuse et usée et coupée aux plis.
 Les billets de banque n'offraient rien de particulier.
 
 Mais sur la feuille de papier, on distinguait encore les traces d'une
-ligue d'écriture dont deux mots seulement restaient parfaitement
+ligne d'écriture dont deux mots seulement restaient parfaitement
 lisibles: _Rue_... _Université_...
 
 --Qu'est-ce que ce papier, Crochard? interrogea le juge.
@@ -19352,7 +19353,7 @@ légalisations, cachets... toutes les herbes de la Saint-Jean, quoi!...
 
 --Celui qu'on a saisi dans votre chambre? demanda le juge.
 
---- Tout juste.
+--Tout juste.
 
 --Où Chevassat l'avait-il pris?
 
